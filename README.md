@@ -14,7 +14,7 @@ I'm an individual looking to transition from Wandering how the magic happens in 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&color=2bbc8a)
 
 
 ---
