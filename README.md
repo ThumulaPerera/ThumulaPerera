@@ -2,11 +2,30 @@
 #### I'm Thumula
 #### an undegradute at Department of Computer Science & Engineering, UoM
 
-----
+---
 
 I'm an individual looking to transition from Wandering how the magic happens in computers to making the magic happen in computers
 
 ---
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&color=2bbc8a)
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thumulaperera&layout=compact&theme=dracula)](https://github.com/ThumulaPerera)
+
+---
+
+
+
+
 
 <!--
 **ThumulaPerera/ThumulaPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
