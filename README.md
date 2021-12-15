@@ -4,7 +4,7 @@
 
 ---
 
-I'm an individual looking to transition from Wandering how the magic happens in computers to making the magic happen in computers
+I'm an working on making the transition from Wandering how the magic happens in computers to making the magic happen in computers
 
 ---
 
@@ -16,12 +16,13 @@ I'm an individual looking to transition from Wandering how the magic happens in 
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&color=2bbc8a)
 
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Firestore-informational?style=flat&logo=firebase&color=2bbc8a)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thumulaperera&layout=compact&theme=dracula)](https://github.com/ThumulaPerera)
 
----
 
 
 
