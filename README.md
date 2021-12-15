@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there 👋
+#### I'm Thumula
+#### an undegradute at Department of Computer Science & Engineering, UoM
+
+----
+
+I'm an individual looking to transition from Wandering how the magic happens in computers to making the magic happen in computers
+
+---
 
 <!--
 **ThumulaPerera/ThumulaPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
