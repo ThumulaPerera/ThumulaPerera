@@ -1,10 +1,9 @@
 ### Hey there 👋
 #### I'm Thumula
-#### an undegradute at Department of Computer Science & Engineering, UoM
 
 ---
 
-I'm an working on making the transition from Wandering how the magic happens in computers to making the magic happen in computers
+I'm working on making the transition from Wandering how the magic happens in computers to making the magic happen in computers
 
 ---
 
